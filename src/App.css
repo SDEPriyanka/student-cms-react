@@ -1,0 +1,253 @@
+.footerbottom h6 {
+  color: white;
+  background-color: black;
+  padding: 10px 40px;
+}
+.navbar {
+  color: white;
+}
+.content {
+  padding: 30px;
+}
+
+.left img {
+  height: auto;
+  width: 100%;
+}
+.left {
+  padding: 7ch 80px;
+}
+.right {
+  padding: 70px 60px;
+}
+.desc-section {
+  background-color: white;
+  height: 570px;
+  width: 500px;
+  padding: 50px;
+}
+.right-heading h2 {
+  font-size: 80px;
+  color: skyblue;
+}
+.right-text p {
+  font-size: 15px;
+  
+}
+.btn {
+  padding: 20px;
+}
+.btn button {
+  border: none;
+  color: white;
+  background-color: skyblue;
+  padding: 15px 29px;
+  font-size: 15px;
+}
+/*contact*/
+
+.contact-banner img {
+  background-image: url("./../public/img/cbaner.png");
+  height: auto;
+  width: 100%;
+}
+.button .btn {
+  padding: 15px 20px;
+}
+.Contact {
+  padding: 90px 60px;
+}
+.left-content-heading h2 {
+  font-size: 50px;
+  color: skyblue;
+}
+.left-content-heading p {
+  color: rgb(142, 142, 144);
+}
+.right-content h2 {
+  color: skyblue;
+}
+/*course*/
+
+.box {
+  box-sizing: border-box;
+  border: 3px solid transparent;
+  background-clip: padding-box;
+}
+
+.top-btn button {
+  border: 0px;
+  padding: 8px 25px;
+  color: white;
+  background-color: rgb(177, 177, 250);
+  border-radius: 50px;
+  font-size: larger;
+}
+.price-rating {
+  display: flex;
+  justify-content: space-between;
+}
+.courses-desc {
+  border: 1px solid rgb(61, 61, 61);
+  overflow: hidden;
+}
+.box {
+  border: 1px solid red;
+}
+.duration {
+  display: flex;
+  justify-content: space-between;
+}
+.duration p {
+  padding: 10px;
+}
+/*home*/
+.home {
+  padding: 50px 20px;
+  background-color: rgb(239, 238, 236);
+}
+.left-desc-heading p {
+  color: gray;
+}
+.left-desc-heading h3 {
+  font-size: 50px;
+  padding: 4px;
+  color: skyblue;
+}
+.btn button {
+  border-radius: 50px;
+  font-size: larger;
+}
+.right-desc-top {
+  display: flex;
+  justify-content: space-between;
+}
+.right-desc-bottom {
+  display: flex;
+  justify-content: space-between;
+}
+.cirtificate {
+  padding: 19px;
+  margin: 7px;
+  border-radius: 5px;
+  background-color: white;
+}
+.cirtificate-icon i {
+  color: skyblue;
+  font-size: 40px;
+  padding: 4px;
+}
+.cirtificate-heading h5 {
+  font-size: 25px;
+  padding: 4px;
+}
+.cirtificate-text p {
+  color: rgb(115, 119, 119);
+}
+.courses-desc-info {
+  padding: 10px;
+}
+.courses-banner img {
+  position: relative;
+  overflow: hidden;
+}
+.top-btn button {
+  position: absolute;
+  top: 125px;
+}
+.cheading h2{
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 50px;
+    color: skyblue;
+}
+.cfooter p{
+  
+    text-align: center;
+    font-size: 17px;
+    padding: 30px;
+    color: rgb(178, 180, 181);
+}
+.cfooter p b{
+    color: rgb(128, 209, 249);
+
+}
+/*news*/
+
+.news-heading h4{
+    text-align: center;
+    font-size: 47px;
+    padding: 2px;
+    color: rgb(110, 203, 250);
+}
+.news-heading p{
+    text-align: center;
+    font-size: 17px;
+    color: rgb(153, 154, 155);
+}
+.news-left-img img{
+    height: auto;
+    width: 100%;
+    border-radius: 5px;
+  
+
+}
+.news-body{
+    position: relative;
+    padding: 40px;
+}
+.news{
+   background-color: rgb(218, 218, 218);
+   padding-top: 40px;
+}
+.news-left-desc{
+    position: absolute;
+    bottom: 22%;
+}
+.news-right1-desc{
+    position: absolute;
+    bottom: 22%;
+}
+.news-left-desc h6{
+    text-align: left;
+    font-size: 27px;
+    color: #ffffff;
+    padding: 10px 95px 10px 15px;
+  
+}
+.news-left-desc p{
+    text-align: left;
+    font-size: 17px;
+    color:white;
+    padding: 0px 95px 0px 15px;
+}
+.news-right1-desc h6{
+    text-align: left;
+    font-size: 27px;
+    color:white;
+    padding: 0px 95px 0px 15px;
+}
+.news-right1-desc  p{
+    text-align: left;
+    font-size: 17px;
+    color:white;
+    padding: 0px 95px 0px 15px;
+}
+.newsimg:hover {
+    opacity: 1.0;
+  }
+
+
+.newsimg {
+  opacity: 0.7;
+  overflow: hidden;
+  position: relative;
+
+}
+
+.news-left-desc{
+  position: relative;
+}
+.about-section{
+    
+}
